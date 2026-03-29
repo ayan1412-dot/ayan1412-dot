@@ -34,6 +34,7 @@ Currently learning and improving my skills by creating real-world projects.
 ## 📌 Projects
 
 * 🌐 Portfolio Website *(Coming Soon)*
+* Shopping Webpage https://github.com/ayan1412-dot/My-first-Frontend-Project-
 * 🧮 Calculator App *(Coming Soon)*
 * 🎨 Landing Pages ,*(Coming Soon)*
 
