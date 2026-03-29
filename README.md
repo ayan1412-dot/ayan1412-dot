@@ -1,25 +1,55 @@
-👋 About Me
+# 👋 Hi, I'm Ayan
 
-Hi there! I'm a passionate Frontend Developer in progress 🚀
-I enjoy turning ideas into interactive and user-friendly web experiences.
+🚀 **Frontend Developer in Progress**
 
-🌱 Currently learning: HTML, CSS, JavaScript
-💡 Interested in: UI/UX design & responsive web development
-🛠️ Working on: Small projects to improve my skills
-📚 Goal: Become a professional frontend developer
-🤝 Open to: Collaboration and learning from others## Hi there 👋
+I’m passionate about building clean, responsive, and user-friendly web interfaces.
+Currently learning and improving my skills by creating real-world projects.
 
-<!--
-**ayan1412-dot/ayan1412-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 💻 What I Do
+
+* Build responsive websites
+* Practice UI/UX design basics
+* Work on small frontend projects
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
+
+## 📌 Projects
+
+* 🌐 Portfolio Website *(Coming Soon)*
+* 🧮 Calculator App *(Coming Soon)*
+* 🎨 Landing Pages ,*(Coming Soon)*
+
+---
+
+## 📊 GitHub Stats
+
+![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayan1412-dot\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/ayan1412-dot
+* Instagram: https://www.instagram.com/kaka_shi__11?igsh=NXNzNnQ0MjdtMTVi
+
+---
+
+✨ *Learning, building, and growing every day.*
