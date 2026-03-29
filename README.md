@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 About Me
+
+Hi there! I'm a passionate Frontend Developer in progress 🚀
+I enjoy turning ideas into interactive and user-friendly web experiences.
+
+🌱 Currently learning: HTML, CSS, JavaScript
+💡 Interested in: UI/UX design & responsive web development
+🛠️ Working on: Small projects to improve my skills
+📚 Goal: Become a professional frontend developer
+🤝 Open to: Collaboration and learning from others## Hi there 👋
 
 <!--
 **ayan1412-dot/ayan1412-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
